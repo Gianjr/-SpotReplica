@@ -1,0 +1,48 @@
+/* Reset CSS - Normaliza estilos padrão dos navegadores */
+
+/* Remove margens, paddings e define border-box */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Remove decoração de listas */
+  ul, ol {
+    list-style: none;
+  }
+  
+  /* Remove decoração de links */
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  /* Define tipografia base */
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #fff;
+    color: #333;
+  }
+  
+  /* Remover estilos padrão de elementos de formulário */
+  button, input, textarea, select {
+    font: inherit;
+    border: none;
+    outline: none;
+    background: none;
+  }
+  
+  /* Faz imagens se ajustarem ao container */
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  /* Define elementos principais como block */
+  article, aside, footer, header, nav, section {
+    display: block;
+  }
+  

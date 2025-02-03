@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../ESTUDOS/DIO/Spotify-alura"
+		},
+		{
+			"path": "../../../ESTUDOS/DIO/Spotify-alura/imersao-front/assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Spotify-alura"
+	}
+}
